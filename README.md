@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoung%20Lim&fontSize=90)
 
+
+![snake gif](https://github.com/nonijuiice/nonijuiice/blob/output/github-contribution-grid-snake.svg)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnonijuiice%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 <h3 align="center"><b>🔥 Tech Stack 🔥</b></h3>
 <p align="center"> I've used the techs below more than once and I'm still learning 🛠 </p>
@@ -16,10 +19,6 @@
 🔭 I’m currently studing on Kookmin Univ, Seoul, South Korea.
 
 🌱 I’m currently learning C, C++, and Python.
-
-
-![snake gif](https://github.com/nonijuiice/nonijuiice/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **nonijuiice/nonijuiice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
