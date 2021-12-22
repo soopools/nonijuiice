@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoung%20Lim&fontSize=90)
 
 
-![snake gif](https://github.com/nonijuiice/nonijuiice/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/nonijuiice/nonijuiice/blob/output/github-contribution-grid-snake.svg)-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnonijuiice%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 <h3 align="center"><b>🔥 Tech Stack 🔥</b></h3>
