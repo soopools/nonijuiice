@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoung%20Lim&fontSize=90)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnonijuiice%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 <h3 align="center"><b>🔥 Tech Stack 🔥</b></h3>
 <p align="center"> I've used the techs below more than once and I'm still learning 🛠 </p>
 </br>
@@ -15,7 +15,7 @@
 
 🔭 I’m currently studing on Kookmin Univ, Seoul, South Korea.
 
-🌱 I’m currently learning C, Python. (C++ will soon !)
+🌱 I’m currently learning C, C++, and Python.
 
 
 <!--
@@ -24,7 +24,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning C, Python
+- 🌱 I’m currently learning C, Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
