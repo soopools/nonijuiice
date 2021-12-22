@@ -18,6 +18,9 @@
 🌱 I’m currently learning C, C++, and Python.
 
 
+![snake gif](https://github.com/nonijuiice/nonijuiice/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **nonijuiice/nonijuiice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
