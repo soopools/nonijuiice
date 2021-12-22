@@ -7,7 +7,7 @@ name: Generate Snake
 on:
   schedule:
     # 6시간마다 한 번(수정 가능)
-    - cron: "0 */6 * * *"
+    - cron: "0 */0 * * *"
 
   # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
@@ -22,7 +22,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: [nonijuiice]
+          github_user_name: nonijuiice
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
